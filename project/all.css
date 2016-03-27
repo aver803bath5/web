@@ -1,0 +1,19 @@
+p {
+	color: blue;
+	font-size: 2em;
+	letter-spacing: 4px;
+	line-height:50px;
+	text-decoration:line-through;
+	/*background-image: url("https://s1.yimg.com/bt/api/res/1.2/IGssmGILk5dFkiT7k7tNvw--/YXBwaWQ9eW5ld3NfbGVnbztmaT1pbnNldDtoPTUxMDtpbD1wbGFuZTtxPTc5O3c9ODAw/http://media.zenfs.com/zh_hant_tw/News/cna/20160306000171M.jpg");*/
+}
+
+h1 {
+	color: #888888;
+}
+
+.pao {
+	font-size: 100px;
+	color: red;
+	font-weight: bolder;
+	font-family: 標楷體;
+}
